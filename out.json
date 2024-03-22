@@ -1,0 +1,1398 @@
+{
+  "data": {
+    "region": {
+      "id": 213,
+      "type": 6,
+      "capitalId": 0,
+      "hierarchy": [
+        225,
+        1,
+        213
+      ],
+      "seoname": "moscow",
+      "bounds": [
+        [
+          37.0354885,
+          55.31406179935764
+        ],
+        [
+          38.1999115,
+          56.192715799357636
+        ]
+      ],
+      "longitude": 37.6177,
+      "latitude": 55.755863,
+      "zoom": 10,
+      "names": {
+        "ablative": "",
+        "accusative": "Москву",
+        "dative": "Москве",
+        "directional": "",
+        "genitive": "Москвы",
+        "instrumental": "Москвой",
+        "locative": "",
+        "nominative": "Москва",
+        "preposition": "в",
+        "prepositional": "Москве"
+      }
+    },
+    "taxi": {
+      "url": "//taxi.yandex.ru/order?gfrom=,&gto=,&tariff=drive&lang=ru"
+    },
+    "weather": {
+      "icon": "skc_d",
+      "temperature": 6,
+      "url": "https://yandex.ru/pogoda/213?lat=55.755863&lon=37.6177"
+    },
+    "hasCatalog": true,
+    "categoryIcons": {
+      "bounds": [
+        [
+          37.03548850000001,
+          55.314051141761325
+        ],
+        [
+          38.199911500000006,
+          56.19270538016284
+        ]
+      ],
+      "items": [
+        {
+          "id": "food",
+          "type": "regular",
+          "icon": "restaurants",
+          "color": "rgb(255, 161, 94)",
+          "displayText": "Еда",
+          "category": {
+            "name": "Еда",
+            "class": "food"
+          }
+        },
+        {
+          "id": "grocery-store",
+          "type": "regular",
+          "icon": "supermarket",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Продукты",
+          "category": {
+            "name": "Продукты",
+            "class": "grocery-store"
+          }
+        },
+        {
+          "id": "hotels",
+          "type": "regular",
+          "icon": "hotels",
+          "color": "rgb(156, 137, 250)",
+          "displayText": "Гостиницы",
+          "category": {
+            "name": "Гостиницы",
+            "class": "hotels"
+          }
+        },
+        {
+          "id": "drugstore",
+          "type": "regular",
+          "icon": "drugstores",
+          "color": "rgb(141, 194, 87)",
+          "displayText": "Аптеки",
+          "category": {
+            "name": "category_id:184105932",
+            "class": "drugstore"
+          }
+        },
+        {
+          "id": "cafe",
+          "type": "regular",
+          "icon": "cafe",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Кафе",
+          "category": {
+            "name": "Кафе",
+            "class": "cafe"
+          }
+        },
+        {
+          "id": "malls",
+          "type": "regular",
+          "icon": "malls",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Торговые центры",
+          "category": {
+            "name": "Торговые центры",
+            "class": "malls"
+          }
+        },
+        {
+          "id": "sport",
+          "type": "regular",
+          "icon": "fitness",
+          "color": "rgb(156, 137, 250)",
+          "displayText": "Спорт",
+          "category": {
+            "name": "Спорт",
+            "class": "sport"
+          }
+        },
+        {
+          "id": "atm",
+          "type": "regular",
+          "icon": "currency-exchange",
+          "color": "rgb(156, 137, 250)",
+          "displayText": "Банкоматы",
+          "category": {
+            "name": "Банкоматы",
+            "class": "atm"
+          }
+        },
+        {
+          "id": "ac_auto_log_id_campaign_64478_bigmaps",
+          "type": "advert",
+          "image": {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-geoadv-ext/1977981/2a0000018def10d7808db9192030a95be5bc/category_icon_%s"
+          },
+          "displayText": "Новостройки",
+          "category": {
+            "name": "{\"text\": \"\", \"ad\": {\"advert_tag_id\": \"search_tag-64478-icon\"}}",
+            "class": "ac_auto_log_id_campaign_64478_bigmaps"
+          }
+        },
+        {
+          "id": "ac_auto_log_id_campaign_66320_bigmaps",
+          "type": "advert",
+          "image": {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-geoadv-ext/1977981/2a0000018d55df3a0c78af535741ef0b6142/category_icon_%s"
+          },
+          "displayText": "Новостройки",
+          "category": {
+            "name": "{\"text\": \"\", \"ad\": {\"advert_tag_id\": \"search_tag-66320-icon\"}}",
+            "class": "ac_auto_log_id_campaign_66320_bigmaps"
+          }
+        },
+        {
+          "id": "ac_auto_log_id_campaign_68950_bigmaps",
+          "type": "advert",
+          "image": {
+            "urlTemplate": "https://avatars.mds.yandex.net/get-geoadv-ext/1977981/2a0000018e15c76d02156566d3b495bb9d9a/category_icon_%s"
+          },
+          "displayText": "MR Group",
+          "category": {
+            "name": "{\"text\": \"\", \"ad\": {\"advert_tag_id\": \"search_tag-68950-icon\"}}",
+            "class": "ac_auto_log_id_campaign_68950_bigmaps"
+          }
+        },
+        {
+          "id": "government",
+          "type": "regular",
+          "icon": "government",
+          "color": "rgb(171,174,178)",
+          "displayText": "Госуслуги",
+          "category": {
+            "name": "Госуслуги",
+            "class": "government"
+          }
+        },
+        {
+          "id": "beauty",
+          "type": "regular",
+          "icon": "hairdressers",
+          "color": "rgb(245, 140, 182)",
+          "displayText": "Салоны красоты",
+          "category": {
+            "name": "Салоны красоты",
+            "class": "beauty"
+          }
+        },
+        {
+          "id": "clinic",
+          "type": "regular",
+          "icon": "medicine",
+          "color": "rgb(245,140,182)",
+          "displayText": "Больницы",
+          "category": {
+            "name": "Больницы",
+            "class": "clinic"
+          }
+        },
+        {
+          "id": "fitness",
+          "type": "regular",
+          "icon": "fitness",
+          "color": "rgb(156, 137, 250)",
+          "displayText": "Фитнес",
+          "category": {
+            "name": "Фитнес-клубы",
+            "class": "fitness"
+          }
+        },
+        {
+          "id": "construction-shop",
+          "type": "regular",
+          "icon": "construction-tool",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Строительные магазины",
+          "category": {
+            "name": "Строительные магазины",
+            "class": "construction-shop"
+          }
+        },
+        {
+          "id": "groceries-delivery",
+          "type": "regular",
+          "icon": "malls",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Доставка продуктов",
+          "category": {
+            "name": "Доставка продуктов",
+            "class": "groceries-delivery"
+          }
+        },
+        {
+          "id": "post-office",
+          "type": "regular",
+          "icon": "post-office",
+          "color": "rgb(171,174,178)",
+          "displayText": "Почта",
+          "category": {
+            "name": "Почта",
+            "class": "post-office"
+          }
+        },
+        {
+          "id": "museum",
+          "type": "regular",
+          "icon": "museum",
+          "color": "rgb(105, 191, 170)",
+          "displayText": "Музеи",
+          "category": {
+            "name": "Музеи",
+            "class": "museum"
+          }
+        },
+        {
+          "id": "bars",
+          "type": "regular",
+          "icon": "bars",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Бары и пабы",
+          "category": {
+            "name": "Бары и пабы",
+            "class": "bars"
+          }
+        },
+        {
+          "id": "sushi",
+          "type": "regular",
+          "icon": "sushi",
+          "color": "rgb(211, 141, 224)",
+          "displayText": "Суши и роллы",
+          "category": {
+            "name": "Суши и роллы",
+            "class": "sushi"
+          }
+        },
+        {
+          "id": "flower-shop",
+          "type": "regular",
+          "icon": "flower-shop",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Магазины цветов",
+          "category": {
+            "name": "Магазины цветов",
+            "class": "flower-shop"
+          }
+        },
+        {
+          "id": "pet-clinic",
+          "type": "regular",
+          "icon": "veterinary",
+          "color": "rgb(156, 137, 250)",
+          "displayText": "Ветеринарные клиники",
+          "category": {
+            "name": "Ветеринарные клиники",
+            "class": "pet-clinic"
+          }
+        },
+        {
+          "id": "cinemas",
+          "type": "regular",
+          "icon": "cinemas",
+          "color": "rgb(211, 141, 224)",
+          "displayText": "Кинотеатры",
+          "category": {
+            "name": "Кинотеатры",
+            "class": "cinemas"
+          }
+        },
+        {
+          "id": "pizza",
+          "type": "regular",
+          "icon": "pizzeria",
+          "color": "rgb(171,174,178)",
+          "displayText": "Пицца",
+          "category": {
+            "name": "Пицца",
+            "class": "pizza"
+          }
+        },
+        {
+          "id": "housewares",
+          "type": "regular",
+          "icon": "malls",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Товары для дома",
+          "category": {
+            "name": "Товары для дома",
+            "class": "housewares"
+          }
+        },
+        {
+          "id": "entertainment",
+          "type": "regular",
+          "icon": "entertainments",
+          "color": "rgb(117, 165, 189)",
+          "displayText": "Развлечения",
+          "category": {
+            "name": "Развлечения",
+            "class": "entertainment"
+          }
+        },
+        {
+          "id": "hookah",
+          "type": "regular",
+          "icon": "fire-station",
+          "color": "rgb(141, 194, 87)",
+          "displayText": "Кальянные",
+          "category": {
+            "name": "Кальянные",
+            "class": "hookah"
+          }
+        },
+        {
+          "id": "coffee",
+          "type": "regular",
+          "icon": "cafe",
+          "color": "rgb(105, 191, 170)",
+          "displayText": "Кофе",
+          "category": {
+            "name": "Кофе",
+            "class": "coffee"
+          }
+        },
+        {
+          "id": "burgers",
+          "type": "regular",
+          "icon": "fast-food",
+          "color": "rgb(96, 168, 240)",
+          "displayText": "Бургеры",
+          "category": {
+            "name": "Бургеры",
+            "class": "burgers"
+          }
+        }
+      ]
+    },
+    "toponymSearchResult": {
+      "requestId": "1711034999707979-3541517183-addrs-upper-yp-27",
+      "requestSerpId": "1711034999707979-3541517183-addrs-upper-yp-27",
+      "requestContext": "ZAAAAAgAEAAaKAoSCQAAAAAAkHZAEQAAAAAAoGZAEhIJAAAAAAAA8L8RAAAAAAAA8L8iAQAoCjgAQP7//////////wFIAWIKbGFuZz1ydV9SVWoCcnWdAc3MTD2gAQCoAQC9ASjusPbCAQEAggICIiKKAgCSAgCaAgxkZXNrdG9wLW1hcHM=",
+      "requestQuery": "\"\"",
+      "requestCorrectedQuery": "\"\"",
+      "requestBounds": [
+        [
+          37.048427,
+          55.43644866
+        ],
+        [
+          38.175903,
+          56.04690174
+        ]
+      ],
+      "displayType": "single",
+      "totalResultCount": 1,
+      "requestResults": 10,
+      "items": [
+        {
+          "type": "toponym",
+          "requestId": "1711034999707979-3541517183-addrs-upper-yp-27",
+          "analyticsId": "1",
+          "title": "Москва",
+          "description": "",
+          "address": "Москва",
+          "coordinates": [
+            37.617698,
+            55.755864
+          ],
+          "displayCoordinates": [
+            37.617698,
+            55.755864
+          ],
+          "bounds": [
+            [
+              36.803079,
+              55.142226
+            ],
+            [
+              37.967799,
+              56.021286
+            ]
+          ],
+          "uri": "ymapsbm1://geo?data=Cgg1MzAwMDA5NBIa0KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAiCg2GeBZCFQEGX0I,",
+          "logId": "dHlwZT1nZW9jb2RlcjthZGRyZXNzPWdlb2NvZGVyMQ==",
+          "id": "53000094",
+          "kind": "province",
+          "seoname": "moskva",
+          "encodedCoordinates": "Z04YcAZnT0wPQFtvfXt0dHRlYA==",
+          "country": "Россия",
+          "postalCode": "",
+          "geoId": 213,
+          "compositeAddress": {
+            "country": "Россия"
+          },
+          "region": {
+            "id": 213,
+            "type": 6,
+            "capitalId": 0,
+            "hierarchy": [
+              225,
+              1,
+              213
+            ],
+            "seoname": "moscow",
+            "bounds": [
+              [
+                37.0354885,
+                55.31406179935764
+              ],
+              [
+                38.1999115,
+                56.192715799357636
+              ]
+            ],
+            "longitude": 37.6177,
+            "latitude": 55.755863,
+            "zoom": 10,
+            "names": {
+              "ablative": "",
+              "accusative": "Москву",
+              "dative": "Москве",
+              "directional": "",
+              "genitive": "Москвы",
+              "instrumental": "Москвой",
+              "locative": "",
+              "nominative": "Москва",
+              "preposition": "в",
+              "prepositional": "Москве"
+            }
+          },
+          "breadcrumbs": [
+            {
+              "name": "Карты",
+              "type": "root",
+              "url": "https://yandex.ru/maps/"
+            },
+            {
+              "name": "Москва",
+              "type": "region",
+              "url": "https://yandex.ru/maps/213/moscow/",
+              "region": {
+                "center": [
+                  37.6177,
+                  55.755863
+                ],
+                "zoom": 10
+              }
+            },
+            {
+              "name": "Москва",
+              "type": "search",
+              "url": "https://yandex.ru/maps/geo/moskva/53000094/",
+              "currentPage": true
+            }
+          ],
+          "catalog": {
+            "region": {
+              "id": 213,
+              "type": 6,
+              "capitalId": 0,
+              "hierarchy": [
+                213
+              ],
+              "seoname": "moscow",
+              "bounds": [
+                [
+                  37.0354885,
+                  55.31406179935764
+                ],
+                [
+                  38.1999115,
+                  56.192715799357636
+                ]
+              ],
+              "longitude": 37.6177,
+              "latitude": 55.755863,
+              "zoom": 10,
+              "names": {
+                "ablative": "",
+                "accusative": "Москву",
+                "dative": "Москве",
+                "directional": "",
+                "genitive": "Москвы",
+                "instrumental": "Москвой",
+                "locative": "",
+                "nominative": "Москва",
+                "preposition": "в",
+                "prepositional": "Москве"
+              }
+            },
+            "companyAmount": 1280164
+          },
+          "weather": {
+            "icon": "skc_d",
+            "temperature": 6,
+            "url": "https://yandex.ru/pogoda/213?lat=55.755864&lon=37.617698"
+          },
+          "categoryIcons": [
+            {
+              "id": "hotels",
+              "type": "regular",
+              "icon": "hotels",
+              "color": "rgb(156, 137, 250)",
+              "displayText": "Гостиницы",
+              "category": {
+                "name": "Гостиницы",
+                "class": "hotels"
+              }
+            },
+            {
+              "id": "food",
+              "type": "regular",
+              "icon": "restaurants",
+              "color": "rgb(255, 161, 94)",
+              "displayText": "Еда",
+              "category": {
+                "name": "Еда",
+                "class": "food"
+              }
+            },
+            {
+              "id": "drugstore",
+              "type": "regular",
+              "icon": "drugstores",
+              "color": "rgb(141, 194, 87)",
+              "displayText": "Аптеки",
+              "category": {
+                "name": "category_id:184105932",
+                "class": "drugstore"
+              }
+            },
+            {
+              "id": "grocery-store",
+              "type": "regular",
+              "icon": "supermarket",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Продукты",
+              "category": {
+                "name": "Продукты",
+                "class": "grocery-store"
+              }
+            },
+            {
+              "id": "entertainment",
+              "type": "regular",
+              "icon": "entertainments",
+              "color": "rgb(117, 165, 189)",
+              "displayText": "Развлечения",
+              "category": {
+                "name": "Развлечения",
+                "class": "entertainment"
+              }
+            },
+            {
+              "id": "cafe",
+              "type": "regular",
+              "icon": "cafe",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Кафе",
+              "category": {
+                "name": "Кафе",
+                "class": "cafe"
+              }
+            },
+            {
+              "id": "malls",
+              "type": "regular",
+              "icon": "malls",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Торговые центры",
+              "category": {
+                "name": "Торговые центры",
+                "class": "malls"
+              }
+            },
+            {
+              "id": "sport",
+              "type": "regular",
+              "icon": "fitness",
+              "color": "rgb(156, 137, 250)",
+              "displayText": "Спорт",
+              "category": {
+                "name": "Спорт",
+                "class": "sport"
+              }
+            },
+            {
+              "id": "atm",
+              "type": "regular",
+              "icon": "currency-exchange",
+              "color": "rgb(156, 137, 250)",
+              "displayText": "Банкоматы",
+              "category": {
+                "name": "Банкоматы",
+                "class": "atm"
+              }
+            },
+            {
+              "id": "ac_auto_log_id_campaign_64478_bigmaps",
+              "type": "advert",
+              "image": {
+                "urlTemplate": "https://avatars.mds.yandex.net/get-geoadv-ext/1977981/2a0000018def10d7808db9192030a95be5bc/category_icon_%s"
+              },
+              "displayText": "Новостройки",
+              "category": {
+                "name": "{\"text\": \"\", \"ad\": {\"advert_tag_id\": \"search_tag-64478-icon\"}}",
+                "class": "ac_auto_log_id_campaign_64478_bigmaps"
+              }
+            },
+            {
+              "id": "ac_auto_log_id_campaign_66320_bigmaps",
+              "type": "advert",
+              "image": {
+                "urlTemplate": "https://avatars.mds.yandex.net/get-geoadv-ext/1977981/2a0000018d55df3a0c78af535741ef0b6142/category_icon_%s"
+              },
+              "displayText": "Новостройки",
+              "category": {
+                "name": "{\"text\": \"\", \"ad\": {\"advert_tag_id\": \"search_tag-66320-icon\"}}",
+                "class": "ac_auto_log_id_campaign_66320_bigmaps"
+              }
+            },
+            {
+              "id": "fast-food",
+              "type": "regular",
+              "icon": "fast-food",
+              "color": "rgb(245, 140, 182)",
+              "displayText": "Быстрое питание",
+              "category": {
+                "name": "Быстрое питание",
+                "class": "fast-food"
+              }
+            },
+            {
+              "id": "government",
+              "type": "regular",
+              "icon": "government",
+              "color": "rgb(171,174,178)",
+              "displayText": "Госуслуги",
+              "category": {
+                "name": "Госуслуги",
+                "class": "government"
+              }
+            },
+            {
+              "id": "beauty",
+              "type": "regular",
+              "icon": "hairdressers",
+              "color": "rgb(245, 140, 182)",
+              "displayText": "Салоны красоты",
+              "category": {
+                "name": "Салоны красоты",
+                "class": "beauty"
+              }
+            },
+            {
+              "id": "clinic",
+              "type": "regular",
+              "icon": "medicine",
+              "color": "rgb(245,140,182)",
+              "displayText": "Больницы",
+              "category": {
+                "name": "Больницы",
+                "class": "clinic"
+              }
+            },
+            {
+              "id": "fitness",
+              "type": "regular",
+              "icon": "fitness",
+              "color": "rgb(156, 137, 250)",
+              "displayText": "Фитнес",
+              "category": {
+                "name": "Фитнес-клубы",
+                "class": "fitness"
+              }
+            },
+            {
+              "id": "construction-shop",
+              "type": "regular",
+              "icon": "construction-tool",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Строительные магазины",
+              "category": {
+                "name": "Строительные магазины",
+                "class": "construction-shop"
+              }
+            },
+            {
+              "id": "groceries-delivery",
+              "type": "regular",
+              "icon": "malls",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Доставка продуктов",
+              "category": {
+                "name": "Доставка продуктов",
+                "class": "groceries-delivery"
+              }
+            },
+            {
+              "id": "post-office",
+              "type": "regular",
+              "icon": "post-office",
+              "color": "rgb(171,174,178)",
+              "displayText": "Почта",
+              "category": {
+                "name": "Почта",
+                "class": "post-office"
+              }
+            },
+            {
+              "id": "museum",
+              "type": "regular",
+              "icon": "museum",
+              "color": "rgb(105, 191, 170)",
+              "displayText": "Музеи",
+              "category": {
+                "name": "Музеи",
+                "class": "museum"
+              }
+            },
+            {
+              "id": "bars",
+              "type": "regular",
+              "icon": "bars",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Бары и пабы",
+              "category": {
+                "name": "Бары и пабы",
+                "class": "bars"
+              }
+            },
+            {
+              "id": "sushi",
+              "type": "regular",
+              "icon": "sushi",
+              "color": "rgb(211, 141, 224)",
+              "displayText": "Суши и роллы",
+              "category": {
+                "name": "Суши и роллы",
+                "class": "sushi"
+              }
+            },
+            {
+              "id": "flower-shop",
+              "type": "regular",
+              "icon": "flower-shop",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Магазины цветов",
+              "category": {
+                "name": "Магазины цветов",
+                "class": "flower-shop"
+              }
+            },
+            {
+              "id": "pet-clinic",
+              "type": "regular",
+              "icon": "veterinary",
+              "color": "rgb(156, 137, 250)",
+              "displayText": "Ветеринарные клиники",
+              "category": {
+                "name": "Ветеринарные клиники",
+                "class": "pet-clinic"
+              }
+            },
+            {
+              "id": "cinemas",
+              "type": "regular",
+              "icon": "cinemas",
+              "color": "rgb(211, 141, 224)",
+              "displayText": "Кинотеатры",
+              "category": {
+                "name": "Кинотеатры",
+                "class": "cinemas"
+              }
+            },
+            {
+              "id": "pizza",
+              "type": "regular",
+              "icon": "pizzeria",
+              "color": "rgb(171,174,178)",
+              "displayText": "Пицца",
+              "category": {
+                "name": "Пицца",
+                "class": "pizza"
+              }
+            },
+            {
+              "id": "housewares",
+              "type": "regular",
+              "icon": "malls",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Товары для дома",
+              "category": {
+                "name": "Товары для дома",
+                "class": "housewares"
+              }
+            },
+            {
+              "id": "hookah",
+              "type": "regular",
+              "icon": "fire-station",
+              "color": "rgb(141, 194, 87)",
+              "displayText": "Кальянные",
+              "category": {
+                "name": "Кальянные",
+                "class": "hookah"
+              }
+            },
+            {
+              "id": "coffee",
+              "type": "regular",
+              "icon": "cafe",
+              "color": "rgb(105, 191, 170)",
+              "displayText": "Кофе",
+              "category": {
+                "name": "Кофе",
+                "class": "coffee"
+              }
+            },
+            {
+              "id": "burgers",
+              "type": "regular",
+              "icon": "fast-food",
+              "color": "rgb(96, 168, 240)",
+              "displayText": "Бургеры",
+              "category": {
+                "name": "Бургеры",
+                "class": "burgers"
+              }
+            }
+          ]
+        }
+      ],
+      "pageCount": 1,
+      "resultsCount": 1,
+      "exactResult": {
+        "type": "toponym",
+        "requestId": "1711034999707979-3541517183-addrs-upper-yp-27",
+        "analyticsId": "1",
+        "title": "Москва",
+        "description": "",
+        "address": "Москва",
+        "coordinates": [
+          37.617698,
+          55.755864
+        ],
+        "displayCoordinates": [
+          37.617698,
+          55.755864
+        ],
+        "bounds": [
+          [
+            36.803079,
+            55.142226
+          ],
+          [
+            37.967799,
+            56.021286
+          ]
+        ],
+        "uri": "ymapsbm1://geo?data=Cgg1MzAwMDA5NBIa0KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAiCg2GeBZCFQEGX0I,",
+        "logId": "dHlwZT1nZW9jb2RlcjthZGRyZXNzPWdlb2NvZGVyMQ==",
+        "id": "53000094",
+        "kind": "province",
+        "seoname": "moskva",
+        "encodedCoordinates": "Z04YcAZnT0wPQFtvfXt0dHRlYA==",
+        "country": "Россия",
+        "postalCode": "",
+        "geoId": 213,
+        "compositeAddress": {
+          "country": "Россия"
+        },
+        "region": {
+          "id": 213,
+          "type": 6,
+          "capitalId": 0,
+          "hierarchy": [
+            225,
+            1,
+            213
+          ],
+          "seoname": "moscow",
+          "bounds": [
+            [
+              37.0354885,
+              55.31406179935764
+            ],
+            [
+              38.1999115,
+              56.192715799357636
+            ]
+          ],
+          "longitude": 37.6177,
+          "latitude": 55.755863,
+          "zoom": 10,
+          "names": {
+            "ablative": "",
+            "accusative": "Москву",
+            "dative": "Москве",
+            "directional": "",
+            "genitive": "Москвы",
+            "instrumental": "Москвой",
+            "locative": "",
+            "nominative": "Москва",
+            "preposition": "в",
+            "prepositional": "Москве"
+          }
+        },
+        "breadcrumbs": [
+          {
+            "name": "Карты",
+            "type": "root",
+            "url": "https://yandex.ru/maps/"
+          },
+          {
+            "name": "Москва",
+            "type": "region",
+            "url": "https://yandex.ru/maps/213/moscow/",
+            "region": {
+              "center": [
+                37.6177,
+                55.755863
+              ],
+              "zoom": 10
+            }
+          },
+          {
+            "name": "Москва",
+            "type": "search",
+            "url": "https://yandex.ru/maps/geo/moskva/53000094/",
+            "currentPage": true
+          }
+        ],
+        "catalog": {
+          "region": {
+            "id": 213,
+            "type": 6,
+            "capitalId": 0,
+            "hierarchy": [
+              213
+            ],
+            "seoname": "moscow",
+            "bounds": [
+              [
+                37.0354885,
+                55.31406179935764
+              ],
+              [
+                38.1999115,
+                56.192715799357636
+              ]
+            ],
+            "longitude": 37.6177,
+            "latitude": 55.755863,
+            "zoom": 10,
+            "names": {
+              "ablative": "",
+              "accusative": "Москву",
+              "dative": "Москве",
+              "directional": "",
+              "genitive": "Москвы",
+              "instrumental": "Москвой",
+              "locative": "",
+              "nominative": "Москва",
+              "preposition": "в",
+              "prepositional": "Москве"
+            }
+          },
+          "companyAmount": 1280164
+        },
+        "weather": {
+          "icon": "skc_d",
+          "temperature": 6,
+          "url": "https://yandex.ru/pogoda/213?lat=55.755864&lon=37.617698"
+        },
+        "categoryIcons": [
+          {
+            "id": "hotels",
+            "type": "regular",
+            "icon": "hotels",
+            "color": "rgb(156, 137, 250)",
+            "displayText": "Гостиницы",
+            "category": {
+              "name": "Гостиницы",
+              "class": "hotels"
+            }
+          },
+          {
+            "id": "food",
+            "type": "regular",
+            "icon": "restaurants",
+            "color": "rgb(255, 161, 94)",
+            "displayText": "Еда",
+            "category": {
+              "name": "Еда",
+              "class": "food"
+            }
+          },
+          {
+            "id": "drugstore",
+            "type": "regular",
+            "icon": "drugstores",
+            "color": "rgb(141, 194, 87)",
+            "displayText": "Аптеки",
+            "category": {
+              "name": "category_id:184105932",
+              "class": "drugstore"
+            }
+          },
+          {
+            "id": "grocery-store",
+            "type": "regular",
+            "icon": "supermarket",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Продукты",
+            "category": {
+              "name": "Продукты",
+              "class": "grocery-store"
+            }
+          },
+          {
+            "id": "entertainment",
+            "type": "regular",
+            "icon": "entertainments",
+            "color": "rgb(117, 165, 189)",
+            "displayText": "Развлечения",
+            "category": {
+              "name": "Развлечения",
+              "class": "entertainment"
+            }
+          },
+          {
+            "id": "cafe",
+            "type": "regular",
+            "icon": "cafe",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Кафе",
+            "category": {
+              "name": "Кафе",
+              "class": "cafe"
+            }
+          },
+          {
+            "id": "malls",
+            "type": "regular",
+            "icon": "malls",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Торговые центры",
+            "category": {
+              "name": "Торговые центры",
+              "class": "malls"
+            }
+          },
+          {
+            "id": "sport",
+            "type": "regular",
+            "icon": "fitness",
+            "color": "rgb(156, 137, 250)",
+            "displayText": "Спорт",
+            "category": {
+              "name": "Спорт",
+              "class": "sport"
+            }
+          },
+          {
+            "id": "atm",
+            "type": "regular",
+            "icon": "currency-exchange",
+            "color": "rgb(156, 137, 250)",
+            "displayText": "Банкоматы",
+            "category": {
+              "name": "Банкоматы",
+              "class": "atm"
+            }
+          },
+          {
+            "id": "ac_auto_log_id_campaign_64478_bigmaps",
+            "type": "advert",
+            "image": {
+              "urlTemplate": "https://avatars.mds.yandex.net/get-geoadv-ext/1977981/2a0000018def10d7808db9192030a95be5bc/category_icon_%s"
+            },
+            "displayText": "Новостройки",
+            "category": {
+              "name": "{\"text\": \"\", \"ad\": {\"advert_tag_id\": \"search_tag-64478-icon\"}}",
+              "class": "ac_auto_log_id_campaign_64478_bigmaps"
+            }
+          },
+          {
+            "id": "ac_auto_log_id_campaign_66320_bigmaps",
+            "type": "advert",
+            "image": {
+              "urlTemplate": "https://avatars.mds.yandex.net/get-geoadv-ext/1977981/2a0000018d55df3a0c78af535741ef0b6142/category_icon_%s"
+            },
+            "displayText": "Новостройки",
+            "category": {
+              "name": "{\"text\": \"\", \"ad\": {\"advert_tag_id\": \"search_tag-66320-icon\"}}",
+              "class": "ac_auto_log_id_campaign_66320_bigmaps"
+            }
+          },
+          {
+            "id": "fast-food",
+            "type": "regular",
+            "icon": "fast-food",
+            "color": "rgb(245, 140, 182)",
+            "displayText": "Быстрое питание",
+            "category": {
+              "name": "Быстрое питание",
+              "class": "fast-food"
+            }
+          },
+          {
+            "id": "government",
+            "type": "regular",
+            "icon": "government",
+            "color": "rgb(171,174,178)",
+            "displayText": "Госуслуги",
+            "category": {
+              "name": "Госуслуги",
+              "class": "government"
+            }
+          },
+          {
+            "id": "beauty",
+            "type": "regular",
+            "icon": "hairdressers",
+            "color": "rgb(245, 140, 182)",
+            "displayText": "Салоны красоты",
+            "category": {
+              "name": "Салоны красоты",
+              "class": "beauty"
+            }
+          },
+          {
+            "id": "clinic",
+            "type": "regular",
+            "icon": "medicine",
+            "color": "rgb(245,140,182)",
+            "displayText": "Больницы",
+            "category": {
+              "name": "Больницы",
+              "class": "clinic"
+            }
+          },
+          {
+            "id": "fitness",
+            "type": "regular",
+            "icon": "fitness",
+            "color": "rgb(156, 137, 250)",
+            "displayText": "Фитнес",
+            "category": {
+              "name": "Фитнес-клубы",
+              "class": "fitness"
+            }
+          },
+          {
+            "id": "construction-shop",
+            "type": "regular",
+            "icon": "construction-tool",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Строительные магазины",
+            "category": {
+              "name": "Строительные магазины",
+              "class": "construction-shop"
+            }
+          },
+          {
+            "id": "groceries-delivery",
+            "type": "regular",
+            "icon": "malls",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Доставка продуктов",
+            "category": {
+              "name": "Доставка продуктов",
+              "class": "groceries-delivery"
+            }
+          },
+          {
+            "id": "post-office",
+            "type": "regular",
+            "icon": "post-office",
+            "color": "rgb(171,174,178)",
+            "displayText": "Почта",
+            "category": {
+              "name": "Почта",
+              "class": "post-office"
+            }
+          },
+          {
+            "id": "museum",
+            "type": "regular",
+            "icon": "museum",
+            "color": "rgb(105, 191, 170)",
+            "displayText": "Музеи",
+            "category": {
+              "name": "Музеи",
+              "class": "museum"
+            }
+          },
+          {
+            "id": "bars",
+            "type": "regular",
+            "icon": "bars",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Бары и пабы",
+            "category": {
+              "name": "Бары и пабы",
+              "class": "bars"
+            }
+          },
+          {
+            "id": "sushi",
+            "type": "regular",
+            "icon": "sushi",
+            "color": "rgb(211, 141, 224)",
+            "displayText": "Суши и роллы",
+            "category": {
+              "name": "Суши и роллы",
+              "class": "sushi"
+            }
+          },
+          {
+            "id": "flower-shop",
+            "type": "regular",
+            "icon": "flower-shop",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Магазины цветов",
+            "category": {
+              "name": "Магазины цветов",
+              "class": "flower-shop"
+            }
+          },
+          {
+            "id": "pet-clinic",
+            "type": "regular",
+            "icon": "veterinary",
+            "color": "rgb(156, 137, 250)",
+            "displayText": "Ветеринарные клиники",
+            "category": {
+              "name": "Ветеринарные клиники",
+              "class": "pet-clinic"
+            }
+          },
+          {
+            "id": "cinemas",
+            "type": "regular",
+            "icon": "cinemas",
+            "color": "rgb(211, 141, 224)",
+            "displayText": "Кинотеатры",
+            "category": {
+              "name": "Кинотеатры",
+              "class": "cinemas"
+            }
+          },
+          {
+            "id": "pizza",
+            "type": "regular",
+            "icon": "pizzeria",
+            "color": "rgb(171,174,178)",
+            "displayText": "Пицца",
+            "category": {
+              "name": "Пицца",
+              "class": "pizza"
+            }
+          },
+          {
+            "id": "housewares",
+            "type": "regular",
+            "icon": "malls",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Товары для дома",
+            "category": {
+              "name": "Товары для дома",
+              "class": "housewares"
+            }
+          },
+          {
+            "id": "hookah",
+            "type": "regular",
+            "icon": "fire-station",
+            "color": "rgb(141, 194, 87)",
+            "displayText": "Кальянные",
+            "category": {
+              "name": "Кальянные",
+              "class": "hookah"
+            }
+          },
+          {
+            "id": "coffee",
+            "type": "regular",
+            "icon": "cafe",
+            "color": "rgb(105, 191, 170)",
+            "displayText": "Кофе",
+            "category": {
+              "name": "Кофе",
+              "class": "coffee"
+            }
+          },
+          {
+            "id": "burgers",
+            "type": "regular",
+            "icon": "fast-food",
+            "color": "rgb(96, 168, 240)",
+            "displayText": "Бургеры",
+            "category": {
+              "name": "Бургеры",
+              "class": "burgers"
+            }
+          }
+        ]
+      },
+      "bounds": [
+        [
+          36.803079,
+          55.14222588
+        ],
+        [
+          37.967799,
+          56.02128612
+        ]
+      ],
+      "filters": [
+
+      ]
+    },
+    "communication": {
+      "hint": {
+        "items": [
+
+        ]
+      },
+      "notification": {
+        "items": [
+
+        ]
+      }
+    },
+    "brandingIcons": [
+
+    ]
+  }
+}
